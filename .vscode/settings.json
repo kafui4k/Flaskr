@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\flvenv\\Scripts\\python.exe"
+}
